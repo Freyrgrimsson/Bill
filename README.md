@@ -1,7 +1,10 @@
 # Bill 
 ## Skyrsla
 
-Myndband
+Myndbönd
+https://youtu.be/OdOPMaQyUY8
+https://youtu.be/cVj8LrsRzNI
+https://youtu.be/aAQV5bqPfYU
 
 Slálfkeyrandi bíll með árekstrarvörn. 
 Við notuðum parta í bílinn, Arduino IDE, arduino pakkann, og leiðbeiningarnar á Github. 
